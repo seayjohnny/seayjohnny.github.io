@@ -16,6 +16,9 @@ ol {
 
 li {
    float: left;
+   background-color: #cccccc;
+   padding-top: 0;
+   padding-bottom: 0;
 }
 
 li a {
@@ -24,12 +27,23 @@ li a {
    text-align: center;
    text-decoration: none;
    padding: 16px;
+   background-color: inherit;
 }
 
 li a:hover {
-   background-color: #c9c9c9;  
+   background-color: #eeeeee;  
+}
+
+.nav-container ol {
+   background-color: #cccccc;
 }
 
 h1 {
-   padding-left: 20px;
+   padding-left: 15px;
+   margin-bottom: 5px;
+}
+
+p {
+   padding-left: 25px;
+   margin-top: 5px;
 }
