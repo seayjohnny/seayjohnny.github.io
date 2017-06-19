@@ -1,0 +1,35 @@
+* {
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   background: #eeeeee;
+}
+
+/*.title {
+   font-size: 3.0em;    /* 48px 
+   text-align: center;
+}*/
+
+ol {
+   padding: 0;
+   list-style-type: none;
+   overflow: hidden
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: #717171;
+   text-align: center;
+   text-decoration: none;
+   padding: 16px;
+}
+
+li a:hover {
+   background-color: #c9c9c9;  
+}
+
+h1 {
+   padding-left: 20px;
+}
