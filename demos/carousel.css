@@ -54,7 +54,6 @@
 .img-resize {
    position: relative;
    width: 100%;
-   
 }
 
 .custom-carousel-control {
@@ -91,3 +90,23 @@
    left: auto;
 }
 
+
+.input-label {
+   position: relative;
+   left: 15%;
+}
+
+.table-container {
+   position: absolute;
+   left: 20%;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+a:hover {
+   cursor: pointer;
+}

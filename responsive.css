@@ -24,10 +24,15 @@
    }
    
    h1 {
-      font-size: 1.5em;
+      font-size: 1.25em;
       text-align: center;
       padding-left: 0;
    }
+   
+   p {
+      font-size: .85em;
+   }
+   
    .col-s-1 {width: 25%;}
    .col-s-2 {width: 50%;}
    .col-s-3 {width: 75%;}
@@ -50,16 +55,19 @@
    }
    
    li a {
-      font-size: 1em;
+      font-size: 1.0em;
       padding: 6px;
    }
    
    h1 {
-      font-size: 2.0em;
+      font-size: 1.5em;
       text-align: center;
       padding-left: 0;
    }
    
+   p {
+      font-size: 1.0em;
+   }
    .col-s-1 {width: 25%;}
    .col-s-2 {width: 50%;}
    .col-s-3 {width: 75%;}
@@ -88,7 +96,7 @@
    }
    
    h1 {
-      font-size: 2em;
+      font-size: 2.0em;
       text-align: center;
       padding-left: 0;
    }
@@ -186,7 +194,7 @@
    }
    
    h1 {
-      font-size: 2em;
+      font-size: 2.0em;
       padding-left: 20px;
    }
 }
@@ -231,6 +239,11 @@
    li a {
       font-size: 1.5em;
       padding: 10px;
+   }
+   
+   h1 {
+      font-size: 2.0em;
+      padding-left: 20px;
    }
 }
 
